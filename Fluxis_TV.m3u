@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Пізнавальні",DW English (тест)
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Спортивні",DeporTV — спорт
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" group-title="Фільми",Cine.AR — кіно
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@US" group-title="Кінозал",48 Hours — документальні історії
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" group-title="Музика",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD" group-title="Мультфільми",AKC TV Puppies — сімейний канал
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" group-title="Пізнавальні",Tec TV — наука і технології
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 group-title="Пізнавальні",DW English — новини та документалістика
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua@SD" group-title="Пізнавальні",24 Канал — Україна
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
